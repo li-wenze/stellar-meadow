@@ -23,11 +23,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Research Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Research Fellow, School of Economics, Singapore Management University
+  - name: School of Economics, Singapore Management University
     url: https://economics.smu.edu.sg/
 
 # Social network links
