@@ -14,7 +14,8 @@ pronouns:
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: <img width="360" height="360" alt="pngtree-pink-cute-cat-icon-animal-png-yuri-png-image_5230763" src="https://github.com/user-attachments/assets/9a7112f9-4ee2-4872-b32f-46cfffa67b61" />
+🚀
 
 # Is this the primary user of the site?
 superuser: true
