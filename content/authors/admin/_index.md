@@ -37,7 +37,7 @@ profiles:
     url: 'wenzeli@smu.edu.sg'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/li-wenze
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/wenze-li-8918081a6/
   - icon: academicons/google-scholar
