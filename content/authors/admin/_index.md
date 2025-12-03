@@ -35,6 +35,10 @@ profiles:
   - icon: at-symbol
     url: 'wenzeli@smu.edu.sg'
     label: E-mail Me
+  - icon: brands/x
+    url: https://x.com/AlexAIResearch
+  - icon: brands/github
+    url: https://github.com/alexjohnsonai
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/wenze-li-8918081a6/
   - icon: academicons/google-scholar
