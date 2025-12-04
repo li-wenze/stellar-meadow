@@ -55,8 +55,8 @@ education:
   - area: PhD Economics
     institution: Nanyang Technological University
     icon: ""
-    date_start: 2020-08
-    date_end: 2025-09
+    date_start: 2020-08_01
+    date_end: 2025-09_01
     summary: |
       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
     button:
