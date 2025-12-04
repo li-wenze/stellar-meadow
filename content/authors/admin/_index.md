@@ -78,14 +78,13 @@ work:
     date_start: 2025-08-04
     date_end: ''
 
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+  - position: Adviser
+    company_name: Energy Market Company
+    company_url: 'https://www.emcsg.com'
     icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+    date_start: 2023-09-01
+    date_end: 2024-03-31
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
