@@ -71,14 +71,13 @@ education:
 
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Research Fellow
+    company_name: Singapore Management University
+    company_url: 'https://economics.smu.edu.sg/'
     icon: ''
-    date_start: 2020-01-01
+    date_start: 2025-08-04
     date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
+
   - position: AI Research Intern
     company_name: OpenAI
     company_url: 'https://openai.com/'
