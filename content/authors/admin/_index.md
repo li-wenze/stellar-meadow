@@ -104,11 +104,6 @@ skills:
         percent: 85
         icon: cloud
 
-languages:
-  - name: English
-    percent: 100
-  - name: Spanish
-    percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
