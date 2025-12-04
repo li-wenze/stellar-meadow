@@ -46,10 +46,9 @@ profiles:
     url: https://orcid.org/0000-0002-0495-0586
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Applied Econometrics
+  - International Trade
+  - Machine Learning
 
 education:
   - area: PhD Economics
