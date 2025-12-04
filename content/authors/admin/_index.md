@@ -86,23 +86,4 @@ work:
     date_end: 2024-03-31
 
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
-
-
 I am a Research Fellow at SMU with a PhD in Economics from Nanyang Technological University (2025). My research interests are in Applied Econometrics and Microeconomics, focusing on trade, labor, and energy economics.
