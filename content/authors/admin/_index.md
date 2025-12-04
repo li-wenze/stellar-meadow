@@ -63,6 +63,12 @@ education:
     date_start: 2018-10-01
     date_end: 2015-05-31
 
+  - area: BC Financial Management
+    institution: Guangdong University of Foreign Studies
+    icon: ""
+    date_start: 2013-09-08
+    date_end: 2017-06-20
+
 
 work:
   - position: Senior AI Research Scientist
