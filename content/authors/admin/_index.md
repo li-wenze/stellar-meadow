@@ -57,22 +57,13 @@ education:
     icon: ""
     date_start: 2020-08-11
     date_end: 2025-09-30
-    summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
+
   - area: MSc Applied Economics
     institution: Nanyang Technological University
     icon: ""
     date_start: 2018-10-01
     date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
 
-      Specialized in machine learning and robotics.
-
-      Minored in Mathematics. President of AI Club.
 
 work:
   - position: Senior AI Research Scientist
