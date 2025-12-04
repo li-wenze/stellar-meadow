@@ -51,7 +51,7 @@ interests:
   - Reinforcement Learning
   - AI Ethics
 
-experience:
+education:
   - area: PhD Economics
     institution: Nanyang Technological University
     icon: ""
