@@ -62,10 +62,10 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+  - area: MSc Applied Economics
+    institution: Nanyang Technological University
     icon: ""
-    date_start: 2013-09-01
+    date_start: 2018-10-01
     date_end: 2015-05-31
     summary: |
       GPA: 4.0/4.0
