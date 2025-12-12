@@ -50,7 +50,7 @@ interests:
   - International Trade
   - Machine Learning
 
-experience:
+education:
   - area: PhD Economics
     institution: Nanyang Technological University
     icon: ""
