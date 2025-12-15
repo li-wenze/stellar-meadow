@@ -38,3 +38,5 @@ main:has(.research-page) .research-page {
 .research-page a {
   text-decoration: underline;
 }
+
+.research-page { outline: 4px solid red !important; }
