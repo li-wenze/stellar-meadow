@@ -1,5 +1,5 @@
 ---
-summary: My courses
+summary: Teaching
 type: landing
 
 cascade:
@@ -13,7 +13,7 @@ sections:
   - block: collection
     id: courses
     content:
-      title: Courses
+      title: Teaching
       filters:
         tag: Course
         kinds:
