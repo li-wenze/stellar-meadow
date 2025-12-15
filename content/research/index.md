@@ -7,29 +7,11 @@ toc: false
 
 cascade:
   - target:
-      path: '{/courses/*/**}'
+      path: '{/research/*/**}'
     type: docs
     params:
       show_breadcrumb: true
 
-sections:
-  # 1) 先显示你的 collection 列表
-  - block: collection
-    id: teaching
-    content:
-      title: teaching
-      filters:
-        tag: teaching
-        kinds:
-          - section
-    design:
-      view: article-grid
-      show_read_time: false
-      show_date: false
-      show_read_more: false
-      columns: 1
-
-  # 2) 再在下面追加一段“同页文本内容”
   - block: markdown
     content:
       title: "Working Papers"
