@@ -9,6 +9,7 @@ params:
   show_breadcrumb: false
 show_date: false
 date: false
+show_read_more: false
 ---
 
 <div style="max-width: 3000px; margin: 0 auto; padding: 0 0; font-size: 0.95rem; line-height: 1.65;">
