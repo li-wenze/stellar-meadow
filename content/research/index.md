@@ -1,6 +1,7 @@
 ---
 title: "Research"
 toc: false
+share: false
 type: landing
 summary: "Research"
 description: "Research"
