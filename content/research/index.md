@@ -1,5 +1,5 @@
 ---
-title: "Working Papers"
+title: "Research"
 toc: false
 type: page
 summary: "Working papers and preprints."
