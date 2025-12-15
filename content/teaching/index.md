@@ -4,12 +4,7 @@ type: page
 toc: false
 share: false
 reading_time: false
-
-params:
-  show_breadcrumb: false
-show_date: false
-date: false
-show_read_more: false
+show_breadcrumb: false
 ---
 
 <div style="max-width: 3000px; margin: 0 auto; padding: 0 0; font-size: 0.95rem; line-height: 1.65;">
@@ -31,7 +26,6 @@ show_read_more: false
   Tutored 50 master’s students in Advanced Microeconomics.
 
 </div>
-
 
 
 
