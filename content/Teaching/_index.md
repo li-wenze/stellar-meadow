@@ -1,5 +1,5 @@
 ---
-summary: Teaching
+summary: teaching
 type: landing
 
 cascade:
@@ -11,11 +11,11 @@ cascade:
 
 sections:
   - block: collection
-    id: courses
+    id: teaching
     content:
-      title: Teaching
+      title: teaching
       filters:
-        tag: Course
+        tag: teaching
         kinds:
           - section
     design:
