@@ -9,7 +9,7 @@ main:
     weight: 10
   - name: Research
     # url: /#papers
-    url: html/a.html
+    url: "html/a.html"
     weight: 11
   - name: Teaching
     url: courses/
