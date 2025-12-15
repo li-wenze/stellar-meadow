@@ -1,22 +1,22 @@
 ---
-title: Courses
-summary: My courses
+title: Research
+summary: My research
 type: landing
 
 cascade:
   - target:
-      path: '{/courses/*/**}'
+      path: '{/research/*/**}'
     type: docs
     params:
       show_breadcrumb: true
 
 sections:
   - block: collection
-    id: courses
+    id: research
     content:
-      title: Courses
+      title: research
       filters:
-        tag: Course
+        tag: research
         kinds:
           - section
     design:
