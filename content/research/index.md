@@ -11,13 +11,13 @@ reading_time: false
 ## Working Papers
 
 - **Firm-Level Network Effects of US-China Trade Shocks**  
-  *Joint with Liyu Dou, Ming Li, Shengmao Cao, Wenjie Wang.*
+  *Joint with Liyu Dou, Ming Li, Shengmao Cao, [Wenjie Wang](https://sites.google.com/site/wenjiemetrics/home).*
 
 - **[Electricity Market Predictability: Virtues of Machine Learning and Links to the Macroeconomy](https://arxiv.org/abs/2507.07477)**  
   *Joint with [Wenjie Wang](https://sites.google.com/site/wenjiemetrics/home), Jinbo Cai.*
 
 - **[An Empirical Comparison of Weak-IV-Robust Procedures in Just-Identified Models](https://arxiv.org/abs/2506.18001)**  
-  *Joint with Liyu Dou, Wenjie Wang.*
+  *Joint with Liyu Dou, [Wenjie Wang](https://sites.google.com/site/wenjiemetrics/home).*
 
 - **[Wild Bootstrap Inference for Linear Regressions with Many Covariates](https://arxiv.org/abs/2506.20972)**
 
