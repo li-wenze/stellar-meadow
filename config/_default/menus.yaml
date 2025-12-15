@@ -10,7 +10,7 @@ main:
   - name: Research
     # url: /#papers
     # url: "html/Research.html"
-    url: /research/research/
+    url: /research/
     weight: 11
   - name: Teaching
     url: /Teaching/
