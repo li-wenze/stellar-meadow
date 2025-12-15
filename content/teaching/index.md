@@ -7,7 +7,6 @@ reading_time: false
 
 params:
   show_breadcrumb: false
-show_date: false
 date: 2025-12-05
 lastmod: 2025-12-05
 date: false
