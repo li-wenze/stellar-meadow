@@ -8,8 +8,6 @@ reading_time: false
 
 <div style="max-width: 3000px; margin: 0 auto; padding: 0 0; font-size: 0.95rem; line-height: 1.65;">
 
-## Teaching Experience
-
 - **Intermediate Microeconomics (Undergraduate)** *(Jan 2023 – May 2023)*  
   Nanyang Technological University, Singapore  
   Conducted tutorial classes and summarized lecture content for a group of 182 undergraduate students. Assisted in quiz development and reviewed the design of midterm and final exam papers.
