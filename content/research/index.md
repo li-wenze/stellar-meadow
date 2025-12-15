@@ -14,6 +14,8 @@ reading_time: false
 #### [Electricity Market Predictability: Virtues of Machine Learning and Links to the Macroeconomy](https://arxiv.org/abs/2507.07477)
 *(Joint with Wenjie Wang, Jinbo Cai.)*
 
-#### [An Empirical Comparison of Weak-IV-Robust Procedures in Just-Identified Models] (https://arxiv.org/abs/2506.18001)
+#### [An Empirical Comparison of Weak-IV-Robust Procedures in Just-Identified Models](https://arxiv.org/abs/2506.18001)
 *(Joint with Liyu Dou, Wenjie Wang.)*
+
+#### [Wild Bootstrap Inference for Linear Regressions with Many Covariates](https://arxiv.org/abs/2506.20972)
 
