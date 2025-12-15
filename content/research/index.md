@@ -6,6 +6,8 @@ share: false
 reading_time: false
 ---
 
+<div class="small-text">
+
 ## Working Papers
 
 #### Firm-Level Network Effects of US-China Trade Shocks
@@ -24,4 +26,4 @@ reading_time: false
 
 #### [Li, Wenze (2023). Investigating Racial Salary Discrimination and the Role of Bargaining Power: Evidence from the NBA. The Singapore Economic Review](https://www.worldscientific.com/doi/abs/10.1142/S0217590823500303)
 
-
+</div>
