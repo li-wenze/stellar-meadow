@@ -5,8 +5,8 @@ toc: false
 share: false
 reading_time: false
 show_breadcrumb: false
-date: false
-# lastmod: false
+date: 2025-12-15
+lastmod: 2025-12-15
 ---
 
 <div style="max-width: 3000px; margin: 0 auto; padding: 0 0; font-size: 0.95rem; line-height: 1.65;">
