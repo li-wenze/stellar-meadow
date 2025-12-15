@@ -6,7 +6,7 @@ share: false
 reading_time: false
 ---
 
-<div class="research-page">
+<div style="max-width: 1200px; margin: 0 auto; padding: 0 12px; font-size: 0.95rem; line-height: 1.65;">
 
 ## Working Papers
 
