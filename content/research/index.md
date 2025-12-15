@@ -2,8 +2,8 @@
 title: "Research"
 toc: false
 type: landing
-summary: "Working papers and preprints."
-description: "Working papers and preprints."
+summary: "Research"
+description: "Research"
 ---
 
 <div class="working-papers">
@@ -11,9 +11,7 @@ description: "Working papers and preprints."
 ### Firm-Level Network Effects of US-China Trade Shocks
 *(Joint with Liyu Dou, Ming Li, Shengmao Cao, Wenjie Wang.)*
 
-### [Quantifying Delay Propagation in Airline Networks](https://example.com/paper.pdf)
-*(Joint with Jakub Kastl and John Lazarev.)*
-
-We develop a framework for quantifying delay propagation ... (这里放摘要)
+### [Electricity Market Predictability: Virtues of Machine Learning and Links to the Macroeconomy](https://arxiv.org/abs/2507.07477)
+*(Wenjie Wang, Jinbo Cai.)*
 
 </div>
