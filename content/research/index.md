@@ -19,3 +19,9 @@ reading_time: false
 
 #### [Wild Bootstrap Inference for Linear Regressions with Many Covariates](https://arxiv.org/abs/2506.20972)
 
+
+## Publication
+
+#### [Li, Wenze (2023). Investigating Racial Salary Discrimination and the Role of Bargaining Power: Evidence from the NBA. The Singapore Economic Review](https://www.worldscientific.com/doi/abs/10.1142/S0217590823500303)
+
+
