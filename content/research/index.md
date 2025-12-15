@@ -1,8 +1,7 @@
 ---
 title: "Research"
 toc: false
-profiles: []
-type: page
+type: landing
 summary: "Working papers and preprints."
 description: "Working papers and preprints."
 ---
