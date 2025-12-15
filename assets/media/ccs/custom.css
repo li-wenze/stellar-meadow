@@ -2,3 +2,16 @@
 main h1 {
   display: none;
 }
+
+/* 让正文容器更宽（减少很快换行的问题） */
+.article-container,
+.page-body,
+.prose {
+  max-width: 1100px;
+}
+
+/* 让正文整体更紧凑一些（可选） */
+.prose {
+  font-size: 0.95rem;
+  line-height: 1.7;
+}
