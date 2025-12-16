@@ -49,5 +49,6 @@ profiles:
 
 ---
 
-
+<div style="text-align: justify; text-justify: inter-ideograph;">
 I am a Research Fellow at SMU with a PhD in Economics from Nanyang Technological University (2025). My research interests are in Applied Econometrics and Microeconomics, focusing on trade, labor, and energy economics.
+</div>
