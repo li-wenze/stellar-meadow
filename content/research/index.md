@@ -11,6 +11,7 @@ showDateUpdated: false
 showPagination: false
 
 show_prev_next: false
+pager: false
 ---
 <div style="max-width: 3000px; margin: 0 auto; padding: 0 0; font-size: 0.95rem; line-height: 1.65;">
 
