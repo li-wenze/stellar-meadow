@@ -8,7 +8,7 @@ show_breadcrumb: false
 lastmod: 2025-12-15
 ---
 
-<div style="max-width: 3000px; margin: 0 auto; padding: 0 0; font-size: 0.95rem; line-height: 1.65;">
+<div style="max-width: 3000px; margin: 0 auto; padding: 0 0; font-size: 0.95rem; line-height: 1.65; text-align: justify; text-justify: inter-ideograph;">
 
 - **Intermediate Microeconomics (Undergraduate)** *(Jan 2023 – May 2023)*  
   Nanyang Technological University, Singapore  
