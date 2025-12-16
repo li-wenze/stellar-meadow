@@ -5,7 +5,10 @@ toc: false
 share: false
 reading_time: false
 show_breadcrumb: false
-lastmod: 2025-12-15
+
+showDate: false
+showDateUpdated: false
+showPagination: false
 ---
 <div style="max-width: 3000px; margin: 0 auto; padding: 0 0; font-size: 0.95rem; line-height: 1.65;">
 
