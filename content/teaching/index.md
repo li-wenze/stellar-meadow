@@ -9,6 +9,8 @@ show_breadcrumb: false
 showDate: false
 showDateUpdated: false
 showPagination: false
+
+show_prev_next: false
 ---
 
 <div style="max-width: 3000px; margin: 0 auto; padding: 0 0; font-size: 0.95rem; line-height: 1.65; text-align: justify; text-justify: inter-ideograph;">
